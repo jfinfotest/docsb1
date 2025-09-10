@@ -25,8 +25,10 @@ npm run update-manifest
 - `docs/` - Documentación en formato Markdown
 - `constants.ts` - Configuración de la aplicación
 - `update-manifest.js` - Script para actualizar el manifiesto
+- `.github/workflows/` - Workflows de GitHub Actions
 
 ### Notas importantes
 - Esta es una aplicación estática compatible con GitHub Pages
 - No requiere servidor backend
 - Todos los archivos necesarios están incluidos en esta carpeta
+- Los workflows de GitHub Actions están incluidos para automatizar el despliegue
